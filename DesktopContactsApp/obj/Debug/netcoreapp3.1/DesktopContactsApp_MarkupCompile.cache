@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\App.xaml
-2-1772605110
+31318909347
 
-5-994651099
+6-501913317
 197391601019
-MainWindow.xaml;NewContactWindow.xaml;
+ContactDetailWindow.xaml;MainWindow.xaml;NewContactWindow.xaml;
 
 False
 

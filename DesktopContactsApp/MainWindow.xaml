@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DesktopContactsApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="300" Width="500">
+        Title="MainWindow" Height="500" Width="500">
     <StackPanel Margin="10">
         <Button Content="New Contact" Click="Button_Click"/>
         <TextBox TextChanged="TextBox_TextChanged" Margin="10"/>
 
-        <ListView x:Name="contactsListView" Margin="10" Height="250">
+        <ListView x:Name="contactsListView" Margin="10" Height="250" SelectionChanged="contactsListView_SelectionChanged">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <StackPanel>

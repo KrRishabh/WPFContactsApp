@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\App.xaml
-2-1772605110
+31318909347
 
-7-1410894968
+8-918157186
 197391601019
-MainWindow.xaml;NewContactWindow.xaml;
+ContactDetailWindow.xaml;MainWindow.xaml;NewContactWindow.xaml;
 
 True
 
