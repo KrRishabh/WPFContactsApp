@@ -4,7 +4,6 @@ C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\netc
 C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\netcoreapp3.1\DesktopContactsApp.runtimeconfig.dev.json
 C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\netcoreapp3.1\DesktopContactsApp.dll
 C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\netcoreapp3.1\DesktopContactsApp.pdb
-C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\netcoreapp3.1\DesktopContactsApp.csprojAssemblyReference.cache
 C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\netcoreapp3.1\NewContactWindow.g.cs
 C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\netcoreapp3.1\App.g.cs
@@ -39,3 +38,7 @@ C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\netc
 C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\netcoreapp3.1\DesktopContactsApp.csproj.CopyComplete
 C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\netcoreapp3.1\ContactDetailWindow.g.cs
 C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\netcoreapp3.1\ContactDetailWindow.baml
+C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\netcoreapp3.1\Controls\ContactControl.g.cs
+C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\netcoreapp3.1\Controls\ContactControl.baml
+C:\Users\krris\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\netcoreapp3.1\DesktopContactsApp.csprojAssemblyReference.cache
